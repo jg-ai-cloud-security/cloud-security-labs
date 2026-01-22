@@ -1,0 +1,10 @@
+// Brute Force Detection (Starter)
+// Finds high failed sign-ins from the same IP
+
+SigninLogs
+| where TimeGenerated > ago(24h)
+| where ResultType != 0
+| summarize FailedAttempts=count(), Users=make_set(UserPrincipalName, 10)
+    by IPAddress, bin(TimeGenerated, 15m)
+| where FailedAttempts >= 10
+| order by FailedAttempts desc
