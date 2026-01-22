@@ -128,7 +128,6 @@ Each project contains:
 
 
 
-> Building secure cloud environments — one lab at a time.
 
 
 
