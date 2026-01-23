@@ -1,0 +1,21 @@
+📁 Folder: 03-Entra-ID/screenshots/
+
+✅ Recommended 5 screenshots
+
+01_conditional_access_policy_list.png
+
+02_policy_require_mfa_all_users.png
+
+03_policy_block_legacy_auth.png
+
+04_signin_logs_overview.png
+
+05_signin_log_policy_applied.png
+
+⭐ Optional extras
+
+06_mfa_authentication_methods.png
+
+07_admin_protection_policy.png
+
+08_break_glass_account_exclusion.png

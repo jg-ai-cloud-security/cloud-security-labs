@@ -1,0 +1,21 @@
+📁 Folder: 04-Automation/screenshots/
+
+✅ Recommended 5 screenshots
+
+01_logic_app_overview.png
+
+02_playbook_designer_trigger_action.png
+
+03_sentinel_automation_rule_linked.png
+
+04_logic_app_run_history_success.png
+
+05_notification_output_teams_or_email.png
+
+⭐ Optional extras
+
+06_incident_comment_added.png
+
+07_playbook_parameters_config.png
+
+08_end_to_end_test_proof.png

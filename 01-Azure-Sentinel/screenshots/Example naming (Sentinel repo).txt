@@ -1,0 +1,18 @@
+01_sentinel_workspace_enabled.png
+
+02_analytics_rule_created.png
+
+03_kql_query_results.png
+
+04_incident_generated.png
+
+05_workbook_dashboard.png
+
+
+Take 5 screenshots:
+
+✅ 01_sentinel_overview.png
+✅ 02_data_connector.png
+✅ 03_analytics_rule_list.png
+✅ 04_kql_results.png
+✅ 05_incident_page.png (or analytics rule detail)

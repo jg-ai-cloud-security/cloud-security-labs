@@ -1,0 +1,19 @@
+✅ Recommended 5 screenshots
+
+01_defender_dashboard_overview.png
+
+02_incident_list_view.png
+
+03_incident_timeline_evidence.png
+
+04_advanced_hunting_query.png
+
+05_hunting_results_output.png
+
+⭐ Optional extras (if you want 8 total)
+
+06_alert_details_view.png
+
+07_device_action_isolation.png (if lab allows)
+
+08_incident_summary_closed.png
