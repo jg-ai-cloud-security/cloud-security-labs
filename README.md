@@ -3,6 +3,7 @@
 Welcome to my hands-on security lab portfolio.
 
 This repository contains real-world security engineering projects across:
+
 ✅ Microsoft Sentinel (SIEM)  
 ✅ Microsoft Defender XDR (EDR/XDR)  
 ✅ Entra ID (Conditional Access + MFA)  
