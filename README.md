@@ -1,3 +1,44 @@
+# Cloud Security Labs — Jose Garcia (Microsoft Security Portfolio)
+
+Welcome to my hands-on security lab portfolio.
+
+This repository contains real-world security engineering projects across:
+
+✅ Microsoft Sentinel (SIEM)  
+✅ Microsoft Defender XDR (EDR/XDR)  
+✅ Entra ID (Conditional Access + MFA)  
+✅ SOAR Automation (Logic Apps Playbooks)
+
+---
+
+## 📌 Projects
+
+### 01 — Azure Sentinel
+- Brute force & password spraying detection (KQL)
+- Analytics rules + incident workflow
+📁 Folder: `01-Azure-Sentinel/`
+
+### 02 — Microsoft Defender XDR
+- Incident triage and investigation
+- Advanced hunting queries (KQL)
+📁 Folder: `02-Defender-XDR/`
+
+### 03 — Entra ID
+- Conditional Access baseline
+- MFA + Admin protection + least privilege
+📁 Folder: `03-Entra-ID/`
+
+### 04 — Automation (SOAR)
+- Logic Apps playbooks for response automation
+- Notification and enrichment workflows
+📁 Folder: `04-Automation/`
+
+
+
+
+
+
+
 # cloud-security-labs
 
 Hands-on Microsoft security labs: Sentinel, Defender XDR, Entra ID, Automation
